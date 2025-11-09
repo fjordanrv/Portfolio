@@ -35,3 +35,7 @@ Agregá gráficos, capturas o enlaces a dashboards.
 ```bash
 pip install -r requirements.txt
 jupyter notebook simulacion_partido.ipynb
+
+## 📬 Contacto
+- [LinkedIn](https://linkedin.com/in/tuusuario)
+- [Email](mailto:tuemail@example.com)
